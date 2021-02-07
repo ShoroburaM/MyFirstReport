@@ -1,0 +1,13 @@
+C:\Users\Део\source\repos\задачка\задачка\bin\Debug\netcoreapp3.1\задачка.exe
+C:\Users\Део\source\repos\задачка\задачка\bin\Debug\netcoreapp3.1\задачка.deps.json
+C:\Users\Део\source\repos\задачка\задачка\bin\Debug\netcoreapp3.1\задачка.runtimeconfig.json
+C:\Users\Део\source\repos\задачка\задачка\bin\Debug\netcoreapp3.1\задачка.runtimeconfig.dev.json
+C:\Users\Део\source\repos\задачка\задачка\bin\Debug\netcoreapp3.1\задачка.dll
+C:\Users\Део\source\repos\задачка\задачка\bin\Debug\netcoreapp3.1\задачка.pdb
+C:\Users\Део\source\repos\задачка\задачка\obj\Debug\netcoreapp3.1\задачка.AssemblyInfoInputs.cache
+C:\Users\Део\source\repos\задачка\задачка\obj\Debug\netcoreapp3.1\задачка.AssemblyInfo.cs
+C:\Users\Део\source\repos\задачка\задачка\obj\Debug\netcoreapp3.1\задачка.csproj.CoreCompileInputs.cache
+C:\Users\Део\source\repos\задачка\задачка\obj\Debug\netcoreapp3.1\задачка.dll
+C:\Users\Део\source\repos\задачка\задачка\obj\Debug\netcoreapp3.1\задачка.pdb
+C:\Users\Део\source\repos\задачка\задачка\obj\Debug\netcoreapp3.1\задачка.genruntimeconfig.cache
+C:\Users\Део\source\repos\задачка\задачка\obj\Debug\netcoreapp3.1\задачка.csprojAssemblyReference.cache
